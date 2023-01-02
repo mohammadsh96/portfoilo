@@ -438,6 +438,13 @@ section {
   color: var(--color-white);
   margin-bottom: 1.5rem;
 }
+.portfolios .portfolio-item .hover-items p{
+  font-size: 1rem;
+  color: var(--color-white);
+  margin-bottom: .5rem;
+  justify-content: center;
+  font-weight: 300;
+}
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
   justify-content: center;
