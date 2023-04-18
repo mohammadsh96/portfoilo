@@ -432,6 +432,7 @@ section {
   opacity: 0;
   transform: scale(0);
   transition: all 0.4s ease-in-out;
+  padding: 10px;
 }
 .portfolios .portfolio-item .hover-items h3 {
   font-size: 1.5rem;
@@ -444,6 +445,8 @@ section {
   margin-bottom: .5rem;
   justify-content: center;
   font-weight: 300;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
