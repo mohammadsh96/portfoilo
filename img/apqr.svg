@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="APQR & Statistical Analysis">
+<rect width="800" height="500" fill="#12181b"/>
+<rect x="1" y="1" width="798" height="498" fill="none" stroke="#454e56" stroke-width="2"/>
+<line x1="56" y1="150" x2="744" y2="150" stroke="#27AE60" stroke-width="2" stroke-dasharray="8 8" opacity=".8"/>
+<line x1="56" y1="330" x2="744" y2="330" stroke="#27AE60" stroke-width="2" stroke-dasharray="8 8" opacity=".8"/>
+<polyline points="56,300 116,262 176,286 236,230 296,258 356,214 416,246 476,198 536,232 596,186 656,214 716,170" fill="none" stroke="#dbe1e8" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="56" cy="300" r="5" fill="#27AE60"/><circle cx="116" cy="262" r="5" fill="#27AE60"/><circle cx="176" cy="286" r="5" fill="#27AE60"/><circle cx="236" cy="230" r="5" fill="#27AE60"/><circle cx="296" cy="258" r="5" fill="#27AE60"/><circle cx="356" cy="214" r="5" fill="#27AE60"/><circle cx="416" cy="246" r="5" fill="#27AE60"/><circle cx="476" cy="198" r="5" fill="#27AE60"/><circle cx="536" cy="232" r="5" fill="#27AE60"/><circle cx="596" cy="186" r="5" fill="#27AE60"/><circle cx="656" cy="214" r="5" fill="#27AE60"/><circle cx="716" cy="170" r="5" fill="#27AE60"/>
+<text x="690" y="142" font-family="Poppins,sans-serif" font-size="16" fill="#27AE60">UCL</text>
+<text x="690" y="352" font-family="Poppins,sans-serif" font-size="16" fill="#27AE60">LCL</text>
+<text x="56" y="410" font-family="Poppins,Segoe UI,sans-serif" font-size="34" font-weight="700" fill="#dbe1e8">APQR & Statistical Analysis</text>
+<text x="56" y="446" font-family="Poppins,Segoe UI,sans-serif" font-size="20" fill="#6c7983">Cpk / Ppk trending across batch data</text>
+<rect x="56" y="60" width="46" height="4" fill="#27AE60"/>
+</svg>

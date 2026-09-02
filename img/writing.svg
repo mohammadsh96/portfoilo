@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Writing on eQMS Implementation">
+<rect width="800" height="500" fill="#12181b"/>
+<rect x="1" y="1" width="798" height="498" fill="none" stroke="#454e56" stroke-width="2"/>
+<rect x="56" y="140" width="420" height="16" rx="4" fill="#27AE60"/>
+<rect x="56" y="184" width="600" height="12" rx="4" fill="#454e56"/><rect x="56" y="218" width="510" height="12" rx="4" fill="#454e56"/><rect x="56" y="252" width="420" height="12" rx="4" fill="#454e56"/><rect x="56" y="286" width="330" height="12" rx="4" fill="#454e56"/>
+<rect x="640" y="140" width="104" height="104" rx="8" fill="#191d2b" stroke="#454e56" stroke-width="2"/>
+<text x="692" y="205" text-anchor="middle" font-family="Poppins,sans-serif" font-size="40" fill="#27AE60">in</text>
+<text x="56" y="410" font-family="Poppins,Segoe UI,sans-serif" font-size="34" font-weight="700" fill="#dbe1e8">Writing on eQMS Implementation</text>
+<text x="56" y="446" font-family="Poppins,Segoe UI,sans-serif" font-size="20" fill="#6c7983">Field notes from regulated rollouts</text>
+<rect x="56" y="60" width="46" height="4" fill="#27AE60"/>
+</svg>

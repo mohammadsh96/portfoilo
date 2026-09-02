@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="ERP to eQMS Integration">
+<rect width="800" height="500" fill="#12181b"/>
+<rect x="1" y="1" width="798" height="498" fill="none" stroke="#454e56" stroke-width="2"/>
+<rect x="56" y="170" width="240" height="120" rx="8" fill="#191d2b" stroke="#454e56" stroke-width="2"/>
+<text x="176" y="238" text-anchor="middle" font-family="Poppins,sans-serif" font-size="24" fill="#dbe1e8">ERP / SAP</text>
+<rect x="504" y="170" width="240" height="120" rx="8" fill="#191d2b" stroke="#27AE60" stroke-width="2"/>
+<text x="624" y="238" text-anchor="middle" font-family="Poppins,sans-serif" font-size="24" fill="#dbe1e8">eQMS</text>
+<line x1="296" y1="208" x2="504" y2="208" stroke="#27AE60" stroke-width="3"/>
+<polygon points="504,208 490,201 490,215" fill="#27AE60"/>
+<line x1="504" y1="252" x2="296" y2="252" stroke="#454e56" stroke-width="3"/>
+<polygon points="296,252 310,245 310,259" fill="#454e56"/>
+<text x="400" y="196" text-anchor="middle" font-family="Poppins,sans-serif" font-size="16" fill="#6c7983">REST</text>
+<text x="56" y="410" font-family="Poppins,Segoe UI,sans-serif" font-size="34" font-weight="700" fill="#dbe1e8">ERP to eQMS Integration</text>
+<text x="56" y="446" font-family="Poppins,Segoe UI,sans-serif" font-size="20" fill="#6c7983">Real-time master data and batch sync</text>
+<rect x="56" y="60" width="46" height="4" fill="#27AE60"/>
+</svg>

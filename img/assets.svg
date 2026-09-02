@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Assets, Calibration & Maintenance">
+<rect width="800" height="500" fill="#12181b"/>
+<rect x="1" y="1" width="798" height="498" fill="none" stroke="#454e56" stroke-width="2"/>
+<circle cx="200" cy="230" r="90" fill="none" stroke="#454e56" stroke-width="3"/>
+<path d="M 200 230 L 200 155" stroke="#27AE60" stroke-width="4" stroke-linecap="round"/>
+<path d="M 200 230 L 254 268" stroke="#dbe1e8" stroke-width="4" stroke-linecap="round"/>
+<circle cx="200" cy="230" r="8" fill="#27AE60"/>
+<rect x="380" y="160" width="300" height="14" rx="3" fill="#27AE60"/><rect x="380" y="204" width="260" height="14" rx="3" fill="#454e56"/><rect x="380" y="248" width="220" height="14" rx="3" fill="#454e56"/><rect x="380" y="292" width="180" height="14" rx="3" fill="#454e56"/>
+<text x="56" y="410" font-family="Poppins,Segoe UI,sans-serif" font-size="34" font-weight="700" fill="#dbe1e8">Assets, Calibration & Maintenance</text>
+<text x="56" y="446" font-family="Poppins,Segoe UI,sans-serif" font-size="20" fill="#6c7983">Scheduling and equipment lifecycle</text>
+<rect x="56" y="60" width="46" height="4" fill="#27AE60"/>
+</svg>
