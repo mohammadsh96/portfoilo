@@ -27,4 +27,14 @@
             toggleTheme();
         }
     });
+
+    // Until a real Formspree ID replaces FORM_ID, send the message via the visitor's email client.
+    const contactForm = document.querySelector(".contact-form");
+    contactForm.addEventListener("submit", event => {
+        if (!contactForm.action.includes("FORM_ID")) return;
+        event.preventDefault();
+        const { name, email, subject, message } = contactForm.elements;
+        const body = `${message.value}\n\n— ${name.value} (${email.value})`;
+        window.location.href = `mailto:mhmd.shrydh1996@gmail.com?subject=${encodeURIComponent(subject.value)}&body=${encodeURIComponent(body)}`;
+    });
 })();

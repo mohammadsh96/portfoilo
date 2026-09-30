@@ -602,6 +602,13 @@ section {
         .submit-btn {
             display: flex;
             justify-content: flex-start;
+            button {
+                background: none;
+                font-family: inherit;
+                font-size: inherit;
+                cursor: pointer;
+                padding: 0;
+            }
         }
     }
 }

@@ -628,6 +628,14 @@ section {
   justify-content: flex-start;
 }
 
+.contact-content-con .right-contact .submit-btn button {
+  background: none;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  padding: 0;
+}
+
 /*Independed components*/
 .btn-con {
   display: flex;
